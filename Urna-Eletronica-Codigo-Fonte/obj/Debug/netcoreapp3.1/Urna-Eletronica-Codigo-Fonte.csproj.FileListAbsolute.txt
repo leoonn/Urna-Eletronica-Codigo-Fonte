@@ -1,0 +1,11 @@
+C:\Users\USERS\source\repos\Urna-Eletronica-Codigo-Fonte\Urna-Eletronica-Codigo-Fonte\bin\Debug\netcoreapp3.1\Urna-Eletronica-Codigo-Fonte.exe
+C:\Users\USERS\source\repos\Urna-Eletronica-Codigo-Fonte\Urna-Eletronica-Codigo-Fonte\bin\Debug\netcoreapp3.1\Urna-Eletronica-Codigo-Fonte.deps.json
+C:\Users\USERS\source\repos\Urna-Eletronica-Codigo-Fonte\Urna-Eletronica-Codigo-Fonte\bin\Debug\netcoreapp3.1\Urna-Eletronica-Codigo-Fonte.runtimeconfig.json
+C:\Users\USERS\source\repos\Urna-Eletronica-Codigo-Fonte\Urna-Eletronica-Codigo-Fonte\bin\Debug\netcoreapp3.1\Urna-Eletronica-Codigo-Fonte.runtimeconfig.dev.json
+C:\Users\USERS\source\repos\Urna-Eletronica-Codigo-Fonte\Urna-Eletronica-Codigo-Fonte\bin\Debug\netcoreapp3.1\Urna-Eletronica-Codigo-Fonte.dll
+C:\Users\USERS\source\repos\Urna-Eletronica-Codigo-Fonte\Urna-Eletronica-Codigo-Fonte\bin\Debug\netcoreapp3.1\Urna-Eletronica-Codigo-Fonte.pdb
+C:\Users\USERS\source\repos\Urna-Eletronica-Codigo-Fonte\Urna-Eletronica-Codigo-Fonte\obj\Debug\netcoreapp3.1\Urna-Eletronica-Codigo-Fonte.csprojAssemblyReference.cache
+C:\Users\USERS\source\repos\Urna-Eletronica-Codigo-Fonte\Urna-Eletronica-Codigo-Fonte\obj\Debug\netcoreapp3.1\Urna-Eletronica-Codigo-Fonte.AssemblyInfoInputs.cache
+C:\Users\USERS\source\repos\Urna-Eletronica-Codigo-Fonte\Urna-Eletronica-Codigo-Fonte\obj\Debug\netcoreapp3.1\Urna-Eletronica-Codigo-Fonte.AssemblyInfo.cs
+C:\Users\USERS\source\repos\Urna-Eletronica-Codigo-Fonte\Urna-Eletronica-Codigo-Fonte\obj\Debug\netcoreapp3.1\Urna-Eletronica-Codigo-Fonte.dll
+C:\Users\USERS\source\repos\Urna-Eletronica-Codigo-Fonte\Urna-Eletronica-Codigo-Fonte\obj\Debug\netcoreapp3.1\Urna-Eletronica-Codigo-Fonte.pdb
